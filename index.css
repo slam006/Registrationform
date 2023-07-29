@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+}
+body{
+    background-color: rgb(17, 75, 233);
+}
+form{
+background-color: white;
+border-radius: 10px;
+width: 800px;
+}
+.contayner{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+span{
+border-bottom: 4px solid  rgb(17, 75, 233) ;
+}
+h1{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+h2{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+.personaldetayls{
+color: gray;
+}
+.one{
+    margin-left: 2rem;
+}
+.two{
+    margin-left: 2rem;
+}
+.three{
+    margin-left: 2rem;
+}
+input{
+    margin-top: 1rem;
+    width: 200px;
+    padding: 10px 10px;
+    border-radius: 3px;
+    border: 1px solid gray;   
+}
+label{
+    font-weight: ;
+}
+#contaynertwo{
+    display: flex;
+    gap: 2rem;
+    margin-right: 2rem;
+    padding: 20px;
+}
+#contaynerthree{
+    display: flex;
+    gap: 2rem;
+    margin-right: 2rem;
+    padding: 20px;  
+}
+.four{
+    margin-left: 2rem;
+}
+.five{
+    margin-left: 2rem;
+}
+.six{
+    margin-left: 2rem;
+}
+.seven{
+    margin-left: 2rem;
+}
+.eight{
+    margin-left: 2rem;
+}
+.nine{
+    margin-left: 2rem;
+}
+.ten{
+    margin-left: 2rem;
+}
+.eleven{
+    margin-left: 2rem;
+}
+.twelve{
+    margin-left: 2rem;
+}
+ #contaynerfour{
+    display: flex;
+    gap: 2rem;
+    margin-right: 2rem;
+    padding: 20px;
+}
+#contaynerfive{
+    display: flex;
+    gap: 2rem;
+    margin-right: 2rem;
+    padding: 20px;
+}
+button{
+    background-color:rgb(17, 75, 233);
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    width: 200px;
+}
+.butt{
+    display: flex;
+    justify-content: left;
+    margin-left: 3rem;
+}
+i{
+    color: white;
+}
+   
