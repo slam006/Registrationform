@@ -15,7 +15,7 @@ width: 800px;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 10g0vh;
+height: 100vh;
 padding-top: 4rem;
 }
 span{
@@ -121,4 +121,4 @@ button{
 i{
     color: white;
 }
-   
+ 
