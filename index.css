@@ -50,9 +50,6 @@ input{
     border-radius: 3px;
     border: 1px solid gray;   
 }
-label{
-    font-weight: ;
-}
 #contaynertwo{
     display: flex;
     gap: 2rem;
